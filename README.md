@@ -2,6 +2,8 @@
 
 A modern, responsive Google Blogger template inspired by the Squarespace Fillmore design aesthetic.
 
+First Claude Code project to update blogger template.
+
 ## Features
 
 - **Clean, Minimalist Design**: Professional layout with modern typography and spacing
